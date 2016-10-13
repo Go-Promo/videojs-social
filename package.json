@@ -1,0 +1,16 @@
+{
+  "name": "videojs-social",
+  "version": "0.1.0",
+  "description": "The social media plugin enables users to share a video through Facebook, Google+, Twitter, Tumblr, Pinterest and LinkedIn.",
+  "main": "videojs-social.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Go-Promo/videojs-social.git"
+  },
+  "keywords": [
+    "videojs"
+  ]
+}
